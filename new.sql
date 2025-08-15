@@ -3,4 +3,4 @@ from
 git
 select git
 from ader frog
-aliac
+aliac out
